@@ -1,0 +1,43 @@
+{
+  "_instructions": "Copy this template for each well-performing video. Save as NB-001.json, NB-002.json etc.",
+  "video_id": "NB-001",
+  "title": "",
+  "date_published": "",
+  "platform": "Instagram Reel",
+  "duration_seconds": 0,
+  "product_featured": "AOK / E-cycle",
+  "hook": {
+    "type": "Absurdist Comedy | Cultural Ref | Family Emotion | PAS | Price Shock | Cash Visual | CCTV | Controversy | Before-After | Testimonial | Feature Demo",
+    "visual": "",
+    "spoken": "",
+    "on_screen_text": "",
+    "sfx": "",
+    "first_frame_description": ""
+  },
+  "performance": {
+    "views_24h": 0,
+    "views_7d": 0,
+    "views_total": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "watch_through_percent": 0,
+    "share_rate_percent": 0,
+    "reach_non_follower_percent": 0
+  },
+  "audience_response": {
+    "top_comments": [],
+    "dm_triggers": [],
+    "share_context": ""
+  },
+  "analysis": {
+    "what_worked": [],
+    "what_didnt": [],
+    "repeat_this": "",
+    "avoid_this": "",
+    "bangalore_specificity_used": "",
+    "emotion_triggered": "",
+    "cta_used": ""
+  }
+}

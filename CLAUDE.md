@@ -12,7 +12,7 @@ next-blr/
 ├── feedback/          — feedback loop (video, concept, audience)
 ├── hook/              — pattern interruption hook reference
 ├── profile/           — product bible, TG, customer stories
-├── reference/         — viral reference library
+├── reference/         — viral library + our content JSONs + competition JSONs
 ├── rules/             — global rules, checklists, philosophy
 ├── strategy/          — formulas, playbooks, calendars
 ├── tracking/          — shoot tracking
@@ -46,6 +46,9 @@ next-blr/
 - `hook/pattern-interruption-hook.md` — complete hook reference (4 layers, scoring, failure diagnostics, templates)
 **reference/:**
 - `reference/viral-reference-library.md` — decoded viral videos for reusable templates
+- `reference/our-content/*.json` — our own video performance data (drop JSONs here)
+- `reference/competition/*.json` — competitor video analysis (drop JSONs here)
+- `reference/README.md` — extraction rules: how Claude mines patterns from JSONs
 **tracking/:**
 - `tracking/shoot-done.md` — shot tracking
 
@@ -55,11 +58,13 @@ next-blr/
 
 1. Read `profile/product-bible.md` + `profile/tg-deep-profile.md` + `profile/customer-stories.md` (fresh fuel)
 2. Read `feedback/` folder — video-feedback, concept-feedback, audience-feedback (learn from past)
-3. Read `strategy/cross-pollination-library.md` + `strategy/life-event-calendar.md` (format + timing)
-4. Read `strategy/BCH-master-concept-formula.md` (proven engine)
-5. Read `rules/global-rules.md` (34 rules — what gets approved/rejected, kill tests)
-6. Check `concepts/10-pending.md` index for duplicates — NB1-10 exist
-7. Generate — then validate against `rules/script-checklist-rules.md` (24-point checklist + edit direction template)
+3. Read ALL `reference/our-content/*.json` — extract winning patterns (top hooks, emotions, durations, Bangalore triggers)
+4. Read ALL `reference/competition/*.json` — extract stealable formats + mechanics (see `reference/README.md` for extraction rules)
+5. Read `strategy/cross-pollination-library.md` + `strategy/life-event-calendar.md` (format + timing)
+6. Read `strategy/BCH-master-concept-formula.md` (proven engine)
+7. Read `rules/global-rules.md` (34 rules — what gets approved/rejected, kill tests)
+8. Check `concepts/10-pending.md` index for duplicates — NB1-10 exist
+9. Generate — then validate against `rules/script-checklist-rules.md` (24-point checklist + edit direction template)
 For deep framework refresh: also read `rules/content-philosophy.md`
 
 ## TG

@@ -1,0 +1,36 @@
+{
+  "_instructions": "Copy this template for each competitor video. Save as COMP-001.json, COMP-002.json etc.",
+  "video_id": "COMP-001",
+  "creator": "",
+  "platform": "Instagram Reel | YouTube Short | TikTok",
+  "url": "",
+  "date_spotted": "",
+  "duration_seconds": 0,
+  "niche": "e-cycle | urban commute | Bangalore lifestyle | cycling | EV",
+  "hook": {
+    "type": "",
+    "visual": "",
+    "spoken": "",
+    "on_screen_text": "",
+    "sfx": "",
+    "first_frame_description": ""
+  },
+  "performance": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "share_rate_percent": 0
+  },
+  "viral_mechanic": "",
+  "steal_for_nextblr": {
+    "hook_technique": "",
+    "format_structure": "",
+    "emotion_lever": "",
+    "bangalore_adaptation": ""
+  },
+  "avoid": {
+    "what_doesnt_apply": "",
+    "why": ""
+  }
+}
