@@ -1,0 +1,41 @@
+{
+  "video_number": "1",
+  "source_handle": "Aoki EV",
+  "views": 0,
+  "likes": 0,
+  "shares": 0,
+  "comments": 0,
+  "saves": 0,
+  "duration_seconds": 21,
+  "hook_0_to_3s": {
+    "what_you_see": "A split-screen effect of a man riding an e-bike toward the camera on a train platform, followed by a top-down 'CCTV' style shot of him riding and then a shot alongside a moving freight train.",
+    "what_you_hear": "High-energy, rhythmic hip-hop/rap beat with a heavy bassline.",
+    "camera_angle": "Eye-level (split-screen), High-angle/Drone (CCTV look), and Low-angle tracking shot.",
+    "text_on_screen": "Upto 70km Range with Pedal Assist; TCR 10-09 18:37:11 (CCTV overlay)",
+    "why_it_stops_scroll": "The fast-paced editing and the unusual setting (riding on a train platform next to a moving train) create an immediate sense of urban adventure."
+  },
+  "tension_3_to_8s": {
+    "what_happens": "Close-up macro shots of the bike's hardware: front suspension, the 'FLEX GO' branding on the frame, and the rider pressing buttons on the handlebar control pad.",
+    "curiosity_gap_created": "It transitions from 'lifestyle' to 'tech,' making the viewer wonder about the specific features and build quality of this compact bike."
+  },
+  "story_8_to_18s": {
+    "what_happens": "Rapid-fire feature showcase: front indicators flashing, headlight turning on, Shimano 7-speed gear shifter, and the digital LCD speedometer. It culminates in a black-and-white 'hero' shot of the rider leaning on the bike as a train rushes past.",
+    "emotional_peak_moment": "The 0:14 mark where the video turns black and white with a cinematic zoom-out as the train speeds by, emphasizing a 'cool' and effortless lifestyle."
+  },
+  "reveal_18_to_25s": {
+    "what_happens": "The 'ALUMINIUM FRAME' text appears. The rider is shown adjusting his sunglasses and preparing to ride, followed by the brand logo reveal.",
+    "specs_mentioned": "Upto 70km Range, Pedal Assist, Front Indicators, Shimano 7-speed Gear, Aluminium Frame, Made in India."
+  },
+  "ending_25_to_30s": {
+    "cta_type": "Brand Identity / Logo Animation",
+    "exact_words": "AOKI EV. BE THE EVOLUTION. MADE IN INDIA."
+  },
+  "audio_analysis": {
+    "music_or_no_music": "Music (Upbeat Rap/Hip-hop instrumental).",
+    "engine_sound_used": "None; focus is on the music and rhythmic cuts.",
+    "voice_tone": "N/A (No voiceover, purely visual and musical)."
+  },
+  "what_makes_this_viral": "The 'industrial-cool' aesthetic. Using a train station/platform as a backdrop creates a high-contrast visual that separates it from standard 'park path' bike ads.",
+  "biggest_weakness": "The text overlays for specs (like 'Shimano 7-speed') appear very briefly, making it difficult for some viewers to read all the features in one go.",
+  "replication_formula_for_bch": "Use a high-contrast, gritty urban location. Employ fast-cut 'macro' shots of product details synced to a heavy beat. Use a B&W 'hero shot' to break the color palette and signify a peak moment of 'cool' factor."
+}

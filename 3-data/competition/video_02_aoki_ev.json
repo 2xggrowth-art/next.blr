@@ -1,0 +1,41 @@
+{
+  "video_number": "1",
+  "source_handle": "AOKI_EV",
+  "views": 250000,
+  "likes": 12400,
+  "shares": 1100,
+  "comments": 450,
+  "saves": 3200,
+  "duration_seconds": 18,
+  "hook_0_to_3s": {
+    "what_you_see": "A man with a striking resemblance to Virat Kohli (influencer/lookalike) presenting an orange and black foldable electric bike called 'FLEX GO'.",
+    "what_you_hear": "Upbeat, rhythmic electronic dance music (EDM) with a heavy bassline.",
+    "camera_angle": "Medium shot, eye-level, slightly handheld for a dynamic feel.",
+    "text_on_screen": "Meet the future of mobility — AOKI",
+    "why_it_stops_scroll": "The presence of a high-profile celebrity lookalike combined with a sleek, futuristic-looking gadget immediately grabs attention."
+  },
+  "tension_3_to_8s": {
+    "what_happens": "The man rides the bike through a crowded outdoor event at night. He is shown smiling, riding effortlessly, and interacting with the bike's features.",
+    "curiosity_gap_created": "The viewer wonders how fast it goes, if it's actually foldable, and where this event is taking place."
+  },
+  "story_8_to_18s": {
+    "what_happens": "The video cuts between the man riding, close-ups of the bike's 'FLEX GO' branding, and a final shot of the man shirtless, showcasing his tattoos and physique to emphasize the 'cool' factor.",
+    "emotional_peak_moment": "The final black-and-white shot of the man gesturing to the crowd, creating an aspirational 'rockstar' vibe."
+  },
+  "reveal_18_to_25s": {
+    "what_happens": "N/A (Video ends at 18s).",
+    "specs_mentioned": "Text overlays mention: 'Ultra lightweight', 'Charge at home', 'Compact like a bag', '70 KM on a single charge'."
+  },
+  "ending_25_to_30s": {
+    "cta_type": "Location/Event Tag",
+    "exact_words": "Spotted at Riders Music Fest, GIP-Noida"
+  },
+  "audio_analysis": {
+    "music_or_no_music": "Music only (High-tempo EDM).",
+    "engine_sound_used": "None; the silence of the electric motor is implied by the lack of noise.",
+    "voice_tone": "N/A (No dialogue)."
+  },
+  "what_makes_this_viral": "The use of a 'celebrity' double creates instant familiarity and shareability. The fast-paced editing and lifestyle-heavy focus make the product look like a fashion accessory rather than just a utility.",
+  "biggest_weakness": "The video relies heavily on the lookalike's charisma; it doesn't show the actual 'folding' mechanism clearly, which is a key USP (Unique Selling Proposition) of the bike.",
+  "replication_formula_for_bch": "Use a recognizable personality (or lookalike), set it at a high-energy public event, focus on 'lifestyle' shots over technical specs, and use text overlays for the heavy lifting of information."
+}

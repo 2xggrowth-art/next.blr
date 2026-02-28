@@ -1,0 +1,41 @@
+{
+  "video_number": "1",
+  "source_handle": "Dr. Cycles Hyderabad",
+  "views": 4200,
+  "likes": 185,
+  "shares": 42,
+  "comments": 12,
+  "saves": 35,
+  "duration_seconds": 100,
+  "hook_0_to_3s": {
+    "what_you_see": "A man riding a sleek, black electric fat-tire bike (Aoki Street Mamba) in front of the 'Dr. Cycles' storefront. He performs a tight turn towards the camera.",
+    "what_you_hear": "Upbeat, energetic electronic background music and the man saying, 'Hello Hyderabad cyclists!'",
+    "camera_angle": "Wide shot, slightly low angle to make the bike look powerful.",
+    "text_on_screen": "HELLO HYDERABAD CYCLIST I'M KALYAN PALLA FROM DR. CYCLES",
+    "why_it_stops_scroll": "The bike's aggressive, 'moped-style' design is visually striking, and the immediate address to a specific city (Hyderabad) creates local relevance."
+  },
+  "tension_3_to_8s": {
+    "what_happens": "Kalyan welcomes the audience to 2026 and promises a 'future mobility solution.' He positions the bike as the ultimate upgrade for the new year.",
+    "curiosity_gap_created": "The 'future mobility' claim makes the viewer wonder what makes this bike different from a standard e-bike."
+  },
+  "story_8_to_18s": {
+    "what_happens": "The scene transitions indoors to the showroom. Kalyan introduces the bike by name: the Aoki Street Mamba. He begins a walk-around inspection.",
+    "emotional_peak_moment": "The transition from the dusty outdoor lot to the clean, high-end showroom creates a sense of 'unveiling' a premium product."
+  },
+  "reveal_18_to_25s": {
+    "what_happens": "Kalyan dives into the build quality, touching the frame and pointing out the suspension system.",
+    "specs_mentioned": "Lightweight aluminum frame, front and back suspension, 15.5 Ah battery."
+  },
+  "ending_25_to_30s": {
+    "cta_type": "Direct Invitation/In-Person Visit",
+    "exact_words": "Swing by Dr. Cycles in Narsingi today, grab a test ride and see why the Street Mamba is the ultimate predator for our city streets."
+  },
+  "audio_analysis": {
+    "music_or_no_music": "Constant high-energy, modern electronic/trap-style background music.",
+    "engine_sound_used": "No engine sound (it's an e-bike), but the whir of the electric motor is subtly audible in the opening.",
+    "voice_tone": "Enthusiastic, professional, and welcoming."
+  },
+  "what_makes_this_viral": "The 'cool factor' of the bike's design—which looks more like a motorcycle than a bicycle—combined with high-quality close-up shots of the tech (display, lights, gears).",
+  "biggest_weakness": "The outdoor lighting in the first 5 seconds is a bit harsh/blown out, which takes away from the 'premium' feel established later in the showroom.",
+  "replication_formula_for_bch": "Start with a dynamic 'action shot' of the product in use -> Call out the specific city/audience immediately -> Rapid-fire specs (90km range, 7-speed Shimano) over close-up B-roll -> End with an invitation to a physical location for a 'test experience'."
+}

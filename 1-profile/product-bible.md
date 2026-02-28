@@ -1,5 +1,5 @@
 # NEXT.BLR — Product Bible
-> Profile: @next.blr | 734 followers | Mint/Teal
+> Profile: @next.blr | 10,000 followers | Mint/Teal
 > Purpose: Claude reads this before generating Next.BLR concepts
 > Identity: Urban lifestyle, Bangalore — cycling as a Bangalore identity, not just a product
 > **STATUS: EARLY STAGE. High viral potential. 86.9% non-follower reach = algorithm is watching.**
@@ -173,13 +173,12 @@
 - **Content philosophy:** Sell the Bangalore cycling identity first. Product second. "This is who you are" > "this is what we sell"
 - **Viral formula hint:** Bangalore-specific content performs extremely well on IG algorithm (local identity = high share rate)
 
-## The Viral Opportunity (Early Stage)
-- 86.9% non-follower reach on only 734 followers = algorithm is already pushing content
-- CRITICAL: Each early post is an algorithm signal — quality matters more than frequency
-- One viral Bangalore cycling concept here can unlock 10K+ followers quickly
+## Growth Phase
+- Grew from 734 → 10,000 followers
+- Magnet content (NB-M1: "10 Gifts Only For Followers") was key follower acquisition driver
+- NEXT PHASE: Convert followers into store visitors and buyers. Magnet content shifts from follow-gates to buying-decision magnets.
 - Content style target: Next.BLR should feel like a Bangalore lifestyle account that happens to sell cycles — NOT a cycle store with a Bangalore filter
 
 ## Top Performing Content
-<!-- FILL THIS — What early content has performed well? -->
-1.
+1. **NB-M1 — "10 Gifts Only For Followers"** — Magnet content. Kid gets 10 premium gifts for being a follower. Escalation ladder + explicit gate. Key growth driver. See `feedback/video-feedback.md` for full breakdown.
 2.

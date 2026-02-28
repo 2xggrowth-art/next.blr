@@ -1,0 +1,41 @@
+{
+  "video_number": "01",
+  "source_handle": "Dr. Cycles Hyderabad",
+  "views": 45000,
+  "likes": 1200,
+  "shares": 340,
+  "comments": 85,
+  "saves": 210,
+  "duration_seconds": 92,
+  "hook_0_to_3s": {
+    "what_you_see": "A blurred shot of a bicycle showroom quickly focuses as a man in a floral shirt rides a compact grey folding e-bike directly toward the camera.",
+    "what_you_hear": "Upbeat, energetic electronic background music with a strong beat.",
+    "camera_angle": "Low-angle tracking shot, moving backward as the cyclist approaches.",
+    "text_on_screen": "Hello Hyderabad cyclist",
+    "why_it_stops_scroll": "The fast-paced movement toward the camera and the unique, small-scale design of the bike immediately grab attention."
+  },
+  "tension_3_to_8s": {
+    "what_happens": "The presenter, Kalyan Palla, introduces himself and the store, then makes a bold claim: he is introducing the 'world's lightest foldable cycle.'",
+    "curiosity_gap_created": "The viewer wonders how a motorized bike can be the 'lightest' and how small it actually gets when folded."
+  },
+  "story_8_to_18s": {
+    "what_happens": "The video transitions to a shot of the bike fully folded on the floor. Kalyan stands next to it to show its scale, emphasizing it fits in a 'Nano boot space.'",
+    "emotional_peak_moment": "The 'wow' factor occurs when the bike is shown folded—it looks incredibly compact compared to a standard bicycle."
+  },
+  "reveal_18_to_25s": {
+    "what_happens": "Kalyan demonstrates the unfolding process in real-time, showing how the handlebars and frame snap into place in seconds.",
+    "specs_mentioned": "AOKI FLEX CR model name; world's lightest foldable e-cycle; compact enough for small car trunks."
+  },
+  "ending_25_to_30s": {
+    "cta_type": "Product Capability Demonstration",
+    "exact_words": "That's it, it's ready. It comes with a huge adjustable seat post..."
+  },
+  "audio_analysis": {
+    "music_or_no_music": "Music (Upbeat electronic/pop instrumental throughout).",
+    "engine_sound_used": "None (Electric motor is silent).",
+    "voice_tone": "Enthusiastic, welcoming, and authoritative."
+  },
+  "what_makes_this_viral": "The combination of a 'problem-solving' product (portability) and the visual satisfaction of seeing a complex machine fold into a tiny package.",
+  "biggest_weakness": "The video is a bit long for a standard Reel; some technical specs (like battery range) are mentioned much later in the full clip rather than the first 30s.",
+  "replication_formula_for_bch": "Start with a high-energy movement toward the camera + a 'World's First/Best' claim + a fast-motion demonstration of the folding/unfolding feature."
+}

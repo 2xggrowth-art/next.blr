@@ -1,0 +1,180 @@
+{
+  "_template_version": "2.0_trimmed",
+  "_purpose": "Competition video analysis — optimized for concept generation, not academic research. Every field feeds directly into Next.BLR concept creation.",
+
+  "content_identity": {
+    "content_title": "",
+    "creator_handle": "",
+    "platform": "Instagram | YouTube | Both",
+    "niche": "",
+    "format_type": "Reel | Short | Long-form",
+    "content_archetype": "Shock | Math | Drama | Authority | Contrarian | Emotional | Status | POV | Educational | Hybrid",
+    "duration_seconds": 0,
+    "estimated_views": "",
+    "why_this_video_was_selected": ""
+  },
+
+  "entry_arrest": {
+    "_analysis_window": "0-3 seconds — the only part that matters for 86.9% non-followers",
+
+    "first_3sec_visual": "",
+    "first_3sec_audio": "",
+    "first_3sec_text_overlay": "",
+    "camera_movement": "Static | Zoom-in | Fast push | Handheld | Jump cut | Pattern break",
+    "frame_density": "Low | Medium | High",
+
+    "pattern_interrupt_type": "Visual shock | Audio spike | Movement | Text contradiction | Facial expression | Environmental change",
+    "curiosity_gap_created": "",
+    "why_it_stops_scroll": "",
+
+    "entry_arrest_scores": {
+      "visual_disruption": {
+        "score": 0,
+        "_guide": "0-10. How much does frame 1 violate feed expectation? Anomaly, scale, risk, proximity."
+      },
+      "feed_contrast": {
+        "score": 0,
+        "_guide": "0-10. Would this POP between a cat video and a meme? Brightness, color, angle."
+      },
+      "motion_intensity": {
+        "score": 0,
+        "_guide": "0-10. Kinetic pull in first 1.5 sec. Speed, direction, unpredictability."
+      },
+      "cognitive_tension": {
+        "score": 0,
+        "_guide": "0-10. Unresolved visual question. Incomplete action, suspended event, ambiguity."
+      }
+    },
+    "dominant_hook_type": "Shock entry (VD dominant) | Pattern interrupt (FC dominant) | Kinetic entry (MI dominant) | Suspense entry (CT dominant) | Hybrid",
+
+    "maps_to_our_hook_taxonomy": "Absurdist Comedy | Cultural Reference | Family Emotion | PAS | Price Shock | Cash/Money Visual | CCTV | Controversy + Proof | Before/After | Testimonial | Feature Demo"
+  },
+
+  "retention_mechanics": {
+    "_analysis_window": "3 seconds to end — why people STAY",
+
+    "story_shape": "Ascending Staircase | J-Curve | PAS Comedy Pivot | Dual-Peak | Ramp-Up + Plateau | U-Curve | Front-Loaded Spike",
+    "beat_structure": {
+      "beat_1_setup": "",
+      "beat_2_tension": "",
+      "beat_3_shift_or_reveal": "",
+      "beat_4_resolution": ""
+    },
+    "emotional_arc": "",
+    "twist_placement": "Early (5-15%) | Mid (40-70%) | Late (75-90%) | None",
+    "twist_description": "",
+
+    "retention_devices_used": [],
+    "_retention_device_options": [
+      "Open loop (question introduced, answered later)",
+      "Curiosity stacking (new question before old one closes)",
+      "Pattern shift (visual/audio change resets attention)",
+      "Prediction error (expectation violated)",
+      "Identity activation (viewer sees themselves)",
+      "Information escalation (each beat reveals more)",
+      "Emotional escalation (stakes keep rising)",
+      "Fast cuts (sub-3-second shot changes)",
+      "Re-hook point (mini pattern interrupt mid-video)"
+    ],
+
+    "re_hook_points": [],
+    "where_would_viewers_drop": "",
+    "what_prevents_the_drop": ""
+  },
+
+  "visual_and_audio": {
+    "primary_visual_anchor": "",
+    "color_contrast_strategy": "",
+    "movement_frequency": "Cuts every ___sec",
+    "face_in_first_3sec": "Yes | No",
+    "face_emotion_intensity": "1-10",
+
+    "voice_tone": "Calm | Aggressive | Fast-paced | Conversational | Authoritative",
+    "music_energy": "Flat | Rising | Drop | Spike-based | None",
+    "sound_effects_key_moments": "",
+    "works_on_mute": "Yes | Partially | No"
+  },
+
+  "share_drivers": {
+    "_the_only_metric_that_matters_for_growth": "DM sends carry 3-5x weight of likes",
+
+    "primary_share_driver": "",
+    "secondary_share_driver": "",
+    "_share_driver_options": [
+      "Status signal — sharing this makes ME look good/smart/caring",
+      "Tribal identity — 'this is SO us' (city, profession, community)",
+      "Utility — practical value worth forwarding (deal, tip, hack)",
+      "Emotional intensity — strong feeling that demands sharing (tears, laughter, shock)",
+      "Moral/values — signals what I stand for"
+    ],
+
+    "who_would_DM_this_and_to_whom": "",
+    "share_trigger_timestamp": "",
+    "share_safety_score": "1-10 (10 = zero risk to share, family-friendly)"
+  },
+
+  "cta_analysis": {
+    "cta_type": "Soft | Hard | Implied | Urgency-based | None",
+    "cta_wording": "",
+    "cta_placement": "",
+    "friction_level": "Low | Medium | High",
+    "does_cta_kill_shareability": "Yes | No"
+  },
+
+  "audience_model": {
+    "who_this_reaches": "",
+    "core_pain_addressed": "",
+    "identity_desire_activated": "",
+    "primary_trigger": "Fear | Greed | Status | Belonging | Aspiration | Relief",
+    "belief_shift": "",
+    "overlaps_with_our_TG": "Strong | Partial | Weak"
+  },
+
+  "stealable_template": {
+    "_this_is_the_output_that_feeds_concept_generation": true,
+
+    "hook_template": "",
+    "_hook_template_example": "[ABSURD ACTION related to DAILY PAIN] + text overlay asking question + Kannada one-liner",
+
+    "story_template": "",
+    "_story_template_example": "Pain dramatized → comedy pivot → product as punchline → social proof → CTA",
+
+    "emotional_arc_template": "",
+    "_emotional_arc_example": "Frustration → Shock → Laughter → Desire → Action",
+
+    "visual_formula": "",
+    "_visual_formula_example": "ECU of pain trigger → wide reveal of absurd action → medium shot product → CU reaction",
+
+    "one_line_replication_instruction": "",
+    "_one_liner_example": "Take any Bangalore commuter pain → exaggerate to absurdity with physical prop → reveal e-cycle as the punchline",
+
+    "variables_to_swap_for_our_context": {
+      "location": "",
+      "character": "",
+      "pain_point": "",
+      "product": "",
+      "cultural_reference": ""
+    },
+
+    "scalability_score": "1-10 (can this template generate 5+ unique videos?)",
+    "fatigue_risk": "Low | Medium | High",
+
+    "non_negotiable_elements": "",
+    "_what_breaks_if_removed": "Elements that if you remove them, the format stops working",
+
+    "flexible_elements": "",
+    "_what_you_can_change": "Elements you can swap without breaking the format"
+  },
+
+  "scores": {
+    "hook_strength": "1-10",
+    "retention_strength": "1-10",
+    "emotional_intensity": "1-10",
+    "share_power": "1-10",
+    "visual_dominance": "1-10",
+    "steal_worthiness": "1-10",
+    "overall": "0-100",
+    "biggest_weakness": "",
+    "biggest_strength": ""
+  }
+}
